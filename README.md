@@ -16,3 +16,15 @@ You may also see any lint errors in the console.
 
 App hosted on : https://fresh-fare-rosy.vercel.app/
 
+Our app equips you with the tools to categorize and organize your kitchen essentials, providing an automated grocery list for your next visit to the store.
+
+Explore our curated selection of recipes designed to help you make the most of your ingredients before they expire.
+
+
+Tech Stack : 
+React JS
+MongoDB
+Express
+
+
+
